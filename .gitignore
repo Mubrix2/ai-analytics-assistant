@@ -1,3 +1,16 @@
+# Python
+venv-linux/
+venv/
+__pycache__/
+*.pyc
+backend/.env
+backend/data/
+
+# Node (already there from template, confirm)
+node_modules/
+dist/
+.env.local
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
