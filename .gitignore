@@ -5,6 +5,7 @@ __pycache__/
 *.pyc
 backend/.env
 backend/data/
+frontend/.env
 
 # Node (already there from template, confirm)
 node_modules/
