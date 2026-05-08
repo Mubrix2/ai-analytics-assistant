@@ -7,8 +7,8 @@ charts instantly. The system converts your question to SQL, runs it
 against a real database, and renders the result as a bar chart, 
 line chart, pie chart, or table — automatically.
 
-**Live Demo:** [your-app.vercel.app](https://your-app.vercel.app)  
-**API Docs:** [your-api.onrender.com/docs](https://your-api.onrender.com/docs)
+**Live Demo:** [ai-analytics-assistant-xg5m.vercel.app](https://ai-analytics-assistant-xg5m.vercel.app)  
+**API Docs:** [ai-analytics-assistant.onrender.com/docs](https://ai-analytics-assistant.onrender.com/docs)
 
 ---
 
