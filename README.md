@@ -12,6 +12,12 @@ line chart, pie chart, or table — automatically.
 
 ---
 
+## Demo
+
+![Demo](demo.gif)
+
+---
+
 ## How It Works
 
 ```
